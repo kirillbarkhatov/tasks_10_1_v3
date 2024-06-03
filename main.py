@@ -3,3 +3,7 @@ def bar():
 
 def func():
     pass
+
+
+def func2():
+    ...
